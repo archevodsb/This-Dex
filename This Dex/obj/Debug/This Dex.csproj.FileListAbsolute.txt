@@ -1,0 +1,9 @@
+C:\Users\Archevod\source\repos\This Dex\This Dex\bin\Debug\This Dex.exe.config
+C:\Users\Archevod\source\repos\This Dex\This Dex\bin\Debug\This Dex.exe
+C:\Users\Archevod\source\repos\This Dex\This Dex\bin\Debug\This Dex.pdb
+C:\Users\Archevod\source\repos\This Dex\This Dex\obj\Debug\This Dex.csproj.AssemblyReference.cache
+C:\Users\Archevod\source\repos\This Dex\This Dex\obj\Debug\This_Dex.Properties.Resources.resources
+C:\Users\Archevod\source\repos\This Dex\This Dex\obj\Debug\This Dex.csproj.GenerateResource.cache
+C:\Users\Archevod\source\repos\This Dex\This Dex\obj\Debug\This Dex.csproj.CoreCompileInputs.cache
+C:\Users\Archevod\source\repos\This Dex\This Dex\obj\Debug\This Dex.exe
+C:\Users\Archevod\source\repos\This Dex\This Dex\obj\Debug\This Dex.pdb
